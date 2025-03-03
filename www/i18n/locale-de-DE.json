@@ -467,7 +467,7 @@
     "SCRYPT_PARAMETERS": "Parameter (Scrypt) :",
     "AUTO_LOGOUT": {
       "TITLE": "Information",
-      "MESSAGE": "<i class=\"ion-android-time\"></i> Du wurdest aufgrund von Inaktivität automatisch <b>abgemeldet</ b>.",
+      "MESSAGE": "<i class=\"ion-android-time\"></i> Du wurdest aufgrund von Inaktivität automatisch <b>abgemeldet</b>.",
       "BTN_RELOGIN": "Anmelden",
       "IDLE_WARNING": "Du wirst bald abgemeldet... {{countdown}}"
     },
@@ -575,10 +575,10 @@
       "COMPUTING_PUBKEY": "Berechnung des öffentlichen Schlüssels ...",
       "LAST_SLIDE_CONGRATULATION": "Bravo! Du hast alle benötigten Felder ausgefüllt.<br/>Jetzt kannst du deinen <b>Kontoantrag abschicken</b>.<br/><br/>Zur Information: mit dem öffentlichen Schlüssel wird in Zukunft dein Konto identifiziert.<br/>Du kannst diesen an Dritte weitergeben um Zahlungen zu erhalten. Sobald das Konto erfolgreich eingerichtet ist, findest du den öffentlichen Schlüssel unter <b>{{'ACCOUNT.TITLE'|translate}}</b>.",
       "CONFIRMATION_MEMBER_ACCOUNT": "<b class=\"assertive\">WARNUNG:</b> Deine Zugangsdaten aus Benutzernamen, Passwort und das Pseudonym können nach dem Anlegen nicht mehr verändert werden.<br/><b>Stelle sicher, dass du diese Daten gut verwahrst!</b><br/><b>Bist du dir sicher,</b> dass du deine persönliche Kontoanfrage abschicken möchtest?",
-      "CONFIRMATION_WALLET_ACCOUNT": "<b class=\"assertive\">WARNUNG:</b> Deine Zugangsdaten aus Benutzername und Passwort können nach Anlegen des Kontos nicht mehr geändert werden.<br/><b>Stelle sicher, dass du sie sicher aufbewahrst / behältst!</b><br/><b>Bist du dir sicher, dass du </b> jetzt die Konotanfrage abschicken willst?",
+      "CONFIRMATION_WALLET_ACCOUNT": "<b class=\"assertive\">WARNUNG:</b> Deine Zugangsdaten aus Benutzername und Passwort können nach Anlegen des Kontos nicht mehr geändert werden.<br/><b>Stelle sicher, dass du sie sicher aufbewahrst / behältst!</b><br/><b>Bist du dir sicher, dass du </b> jetzt die Kontoanfrage abschicken willst?",
       "CHECKING_PSEUDO": "Überprüfe...",
       "PSEUDO_AVAILABLE": "Dieses Pseudonym ist verfügbar",
-      "PSEUDO_NOT_AVAILABLE": "Diesies Pseudonym ist nicht möglich",
+      "PSEUDO_NOT_AVAILABLE": "Dieses Pseudonym ist nicht möglich",
       "INFO_LICENSE": "Wenn du dich an dieser Währung beteiligen möchtest, bitten wir dich, die Lizenz zu lesen und zu akzeptieren.",
       "BTN_ACCEPT": "Ich akzeptiere",
       "BTN_ACCEPT_LICENSE": "Ich bin mit der Lizenz einverstanden"
@@ -631,7 +631,7 @@
         "TITLE": "Sekundäre Brieftaschen importieren",
         "HELP": "Um <b>sekundäre Brieftaschen zu importieren</b>, ziehen Sie bitte die Datei in das Feld unten oder klicken Sie in das Feld, um nach einer Datei zu suchen.",
         "WALLET_COUNT": "<b>{{count}}</b> neue Brieftasche{{count > 1 ? 'n' : ''}}",
-        "NO_NEW_WALLET": "Keine neue Brieftaschen"
+        "NO_NEW_WALLET": "Keine neuen Brieftaschen"
       }
     },
     "SECURITY":{
@@ -683,7 +683,7 @@
       "SAVE_ID_HELP": "Erstellen einer Sicherungsdatei, um <b>dein Passwort</b> (und den geheimen Benutzernamen) <b>wiederzuerlangen, falls du es vergisst</b>. Die Datei ist mit personenbezogenen Fragen <b>gesichert</b> (verschlüsselt).",
       "SAVE_ID_FILENAME": "{{currency}}-anmeldeinformationen-{{pubkey}}.txt",
       "STRONG_LEVEL": "Hoch <span class=\"hidden-xs \">(6 Fragen Minimum)</span>",
-      "TITLE": "Konto and Sicherheit",
+      "TITLE": "Konto und Sicherheit",
       "KEYFILE": {
         "PUBSEC_FORMAT": "PubSec Format.",
         "PUBSEC_FORMAT_HELP": "Dieses Dateiformat ist insbesondere mit Cesium und Gannonce kompatibel. Ihr Schlüsselbund wird <b>unverschlüsselt</b> gespeichert: Jeder, der eine Kopie dieser Datei besitzt, kann Ihr Konto ausräumen.",
@@ -723,7 +723,7 @@
     "BTN_ADD_COMMENT": "Kommentar hinzufügen",
     "REST": "Restbetrag des Kontos",
     "REST_TO": "an",
-    "WARN_COMMENT_IS_PUBLIC": "Bitte bedenke, dass <b>Kommentare öffenlich einsehbar sind </b> (nicht verschlüsselt).",
+    "WARN_COMMENT_IS_PUBLIC": "Bitte bedenke, dass <b>Kommentare öffenlich einsehbar sind</b> (nicht verschlüsselt).",
     "MODAL": {
       "TITLE": "Überweisung"
     }
@@ -754,7 +754,7 @@
     "SALT_NOT_CONFIRMED": "Die Wiederholung passt nicht zur vorhergehenden Eingabe.",
     "SEND_IDENTITY_FAILED": "Es ist ein Fehler bei der Registrierung aufgetreten.",
     "SEND_CERTIFICATION_FAILED": "Die Zertifizierung konnte nicht durchgeführt werden.",
-    "NEED_MEMBER_ACCOUNT_TO_CERTIFY": "Du kannst nicht zertifizieren, weil <b>dein Konto kein Mitgliedskonsot ist</b>.",
+    "NEED_MEMBER_ACCOUNT_TO_CERTIFY": "Du kannst nicht zertifizieren, weil <b>dein Konto kein Mitgliedskonto ist</b>.",
     "NEED_MEMBER_ACCOUNT_TO_CERTIFY_HAS_SELF": "Du konntest die Zertifizierung noch nicht absenden, weil du <b>noch nicht Mitglied bist. </b><br/>Du brauchst noch selbst Zertifizierungen, um Mitglied zu werden.",
     "IDENTITY_TO_CERTIFY_HAS_NO_SELF": "Dieses Konto konnte nicht zertifiziert werden. Es wurde keine Registrierung gefunden oder es muss erneuert werden.",
     "LOGIN_FAILED": "Fehler beim Einloggen.",
@@ -765,7 +765,7 @@
     "REFRESH_WALLET_DATA": "Das Konto konnte nicht neu geladen werden.",
     "GET_CURRENCY_PARAMETER": "Die Währungsparameter konnten nicht geladen werden.",
     "GET_CURRENCY_FAILED": "Die Währung konnte nicht geladen werden.",
-    "SEND_TX_FAILED": "Die Tansaktion konnte nicht abgeschlossen werden.",
+    "SEND_TX_FAILED": "Die Transaktion konnte nicht abgeschlossen werden.",
     "ALL_SOURCES_USED": "Bitte warte bis der nächste Block berechnet wird (alle Transaktionressourcen sind gerade verbraucht).",
     "NOT_ENOUGH_SOURCES": "Es ist nicht genug Geld auf dem Konto um jetzt diese Summe zu überweisen.<br/>Maximale Summe: {{amount}} {{unit}}<sub>{{subUnit}}</sub>.",
     "ACCOUNT_CREATION_FAILED": "Es gab einen Fehler beim Anlegen deines Mitgliedskontos.",
@@ -781,7 +781,7 @@
     "AMOUNT_REQUIRED": "Es muss ein Betrag angegeben werden.",
     "AMOUNT_NEGATIVE": "Negative Werte sind nicht möglich.",
     "NOT_ENOUGH_CREDIT": "Du hast nicht genug Guthaben.",
-    "INVALID_NODE_SUMMARY": "Der Netzknoten ist nicher erreichbar oder die Adresse existiert nicht",
+    "INVALID_NODE_SUMMARY": "Der Netzknoten ist nicht erreichbar oder die Adresse existiert nicht",
     "INVALID_USER_ID": "Die Eingabe für 'Pseudonym' darf keine Leerzeichen oder Sonderzeichen enthalten.",
     "INVALID_COMMENT": "Die Eingabe für 'reference' hat das falsche Format.",
     "INVALID_PUBKEY": "Der öffentliche Schlüssel hat das falsche Format.",
@@ -795,7 +795,7 @@
     "IDENTITY_NOT_FOUND": "Identität nicht gefunden",
     "IDENTITY_TX_FAILED": "Fehler beim Laden der Transaktion dieser Identität",
     "WOT_PENDING_INVALID_BLOCK_HASH": "Diese Mitgliedschaft ist ungültig.",
-    "WALLET_INVALID_BLOCK_HASH": "Deine Mitgliedschaft ist nicht mehr gültig (sie referenziert einen gelöschten Block).<br/>Du musst <a ng-click=\"doQuickFix('renew')\">deine Mitgliedsregistrierungerneuern</a> um dieses Problem zu lösen.",
+    "WALLET_INVALID_BLOCK_HASH": "Deine Mitgliedschaft ist nicht mehr gültig (sie referenziert einen gelöschten Block).<br/>Du musst <a ng-click=\"doQuickFix('renew')\">deine Mitgliedsregistrierung erneuern</a> um dieses Problem zu lösen.",
     "WALLET_IDENTITY_EXPIRED": "Die Veröffentlichung deiner Identität <b>ist abgelaufen</b>.<br/>Du musst <a ng-click=\"doQuickFix('fixIdentity')\">deine Identität neu beantragen</a> um das Problem zu lösen.",
     "WALLET_REVOKED": "Deine Identität wurde <b>widerrufen</b>: weder dein Pseudonym noch dein öffentlicher Schlüssel werden in der Zukunft für ein Mitgliedskonto benutzt werden.",
     "WALLET_HAS_NO_SELF": "Deine Identität muss erst veröffentlicht sein und darf nicht abgelaufen sein.",
@@ -804,8 +804,8 @@
     "AUTH_INVALID_SCRYPT": "Ungültiger Benutzername oder Passwort.",
     "AUTH_INVALID_FILE": "Ungültige Schlüsselbunddatei.",
     "AUTH_FILE_ERROR": "Konnte Schlüsselbunddatei nicht öffnen",
-    "IDENTITY_ALREADY_CERTIFY": "Du hast dieses Konto / diese Persion <b>bereits zertifiziert</b>.<br/><br/>Deine Zertifizierung ist noch gültig (und verfällt in {{expiresIn|formatDuration}}).",
-    "IDENTITY_ALREADY_CERTIFY_PENDING": "Du hst dieses Konto / diese Person <b>schon zertifiziert</b>.<br/><br/>Deine Zertifizierung ist noch nicht validiert worden (Letztes Datum für die Behandlung {{expiresIn|formatDuration}}).",
+    "IDENTITY_ALREADY_CERTIFY": "Du hast dieses Konto / diese Person <b>bereits zertifiziert</b>.<br/><br/>Deine Zertifizierung ist noch gültig (und verfällt in {{expiresIn|formatDuration}}).",
+    "IDENTITY_ALREADY_CERTIFY_PENDING": "Du hast dieses Konto / diese Person <b>schon zertifiziert</b>.<br/><br/>Deine Zertifizierung ist noch nicht validiert worden (Letztes Datum für die Behandlung {{expiresIn|formatDuration}}).",
     "UNABLE_TO_CERTIFY_TITLE": "Zertifizieren nicht möglich",
     "LOAD_NEWCOMERS_FAILED": "Laden neuer Mitglieder nicht möglich.",
     "LOAD_PENDING_FAILED": "Laden anstehender Mitgliedsregistrierungen nicht möglich.",
@@ -858,7 +858,7 @@
     "REVOCATION_SENT_WAITING_PROCESS": "Widerruf des Kontos <b>erfolgreich abgeschickt</b>. Bearbeitung steht noch aus.",
     "FEATURE_NOT_AVAILABLE_ON_DEMO": "Diese Funktion ist auf der Demo-Version nicht verfügbar.<br/>Aus <b>Sicherheitsgründen</b> empfehlen wir dir, eine Kopie der Software zu <b>installieren</b>.<br/>Besuche die Webseite <a href='https://cesium.app'>www.cesium.app</a> für Hilfe und weitere Informationen.",
     "FEATURES_NOT_IMPLEMENTED": "Diese Funktion ist noch nicht implementiert.<br/><br/>Warum nicht mitwirken, um sie schneller zu erhalten? ;)",
-    "EMPTY_TX_HISTORY": "Keine Tansaktionen für den Export vorhanden.",
+    "EMPTY_TX_HISTORY": "Keine Transaktionen für den Export vorhanden.",
     "LOADING_PENDING_TX": "Lade...<br/><small>(Abrufen von ausstehenden Operationen)</small>",
     "FILE_DOWNLOADED": "Datei heruntergeladen"
   },
@@ -881,16 +881,16 @@
     "FIX_MEMBERSHIP": "Dein Mitgliedsantrag wird abgeschickt.<br/></br/><b>Bist du dir sicher?</b>",
     "MEMBERSHIP": "Dein Mitgliedsantrag wird verschickt. <br/></br/><b>Bist du sicher?</b>",
     "RENEW_MEMBERSHIP": "Deine Mitgliedschaft wird verlängert.<br/></br/><b>Bist du dir sicher?</b>",
-    "REVOKE_IDENTITY": "<b>Sicherheitshinweis:</b><br/>Du bist gerade dabei <b>endgültig und unwiderruflich deine Identität zu widerrufen</b>.<br/><br/>Dieser öffentliche Schlüssel und dein damit verknüpftes Pseudonym kann  <b>nie wieder benutzt werden</b> (für ein Mitgliedskonto).<br/></br/><b>Bist du dir sicher</b> fortzufahren?",
-    "REVOKE_IDENTITY_2": "Diese Aktion kan man <b>nicht rückgängig machen</b>!<br/><br/><b>Bist du sicher</b> das du das willst?",
+    "REVOKE_IDENTITY": "<b>Sicherheitshinweis:</b><br/>Du bist gerade dabei <b>endgültig und unwiderruflich deine Identität zu widerrufen</b>.<br/><br/>Dieser öffentliche Schlüssel und dein damit verknüpftes Pseudonym kann <b>nie wieder benutzt werden</b> (für ein Mitgliedskonto).<br/></br/><b>Bist du dir sicher</b> fortzufahren?",
+    "REVOKE_IDENTITY_2": "Diese Aktion kann man <b>nicht rückgängig machen</b>!<br/><br/><b>Bist du sicher</b>, dass du das willst?",
     "NOT_NEED_RENEW_MEMBERSHIP": "Deine Mitgliedschaft braucht jetzt nicht verlängert werden (sie wird erst auslaufen nach {{membershipExpiresIn|formatDuration}}).<br/></br/><b>Bist du sicher</b> das du jetzt eine Verlängerung beantragen willst?",
-    "SAVE_BEFORE_LEAVE": "Möchtest du deine <b>Änderungeung abspeichern</b> bevor du diese Seite verlässt?",
+    "SAVE_BEFORE_LEAVE": "Möchtest du deine <b>Änderungen abspeichern</b> bevor du diese Seite verlässt?",
     "SAVE_BEFORE_LEAVE_TITLE": "Änderungen nicht speichern",
     "LOGOUT": "Sicher, dass du dich abmelden möchtest?",
     "USE_FALLBACK_NODE": "Knoten <b>{{old}}</b> ist nicht erreichbar.<br/><br/>Möchtest du temporär den Knoten <b>{{new}}</b> verwenden?",
     "USE_SYNC_FALLBACK_NODE": "Knoten <b>{{old}}</b> scheint nicht synchronisiert zu sein.<br/><br/>Möchten Sie vorübergehend den synchronisierten Knoten <b>{{new}}</b> verwenden?",
     "ISSUE_524_SEND_LOG": "Die Transaktion wurde aufgrund eines bekannten Problems (issue #524) zurückgewiesen. Die Ursache ist bisher unbekannt.<br/>Akzeptierst du <b>die Übertragung deiner Logdaten</b> als Nachricht, um den Entwicklern bei der Korrektur zu helfen?<br/><small>(Dies beinhaltet keine vertraulichen Daten)</small><br/>",
-    "LICENCE": "Ich habe die die Lizenz des G1 gelesen und akzeptiert",
+    "LICENCE": "Ich habe die Lizenz des G1 gelesen und akzeptiert",
     "ENABLE_EXPERT_MODE_TO_CHANGE_NODE": "<b class=\"assertive\">Warnung:</b> Möchten Sie den Knoten <b>manuell ändern</b>?<br/><br/>Wenn Sie fortfahren:<ul><li> - Der <b>Expertenmodus</b> wird aktiviert;</li><li> - Sie können zur automatischen Knotenauswahl zurückkehren, indem Sie einfach den <b>Expertenmodus deaktivieren</b>.</li></ul>"
   },
   "MODE": {
@@ -910,15 +910,15 @@
   },
   "DOWNLOAD": {
     "POPUP_TITLE": "<b>Widerrufsdatei</b>",
-    "POPUP_REVOKE_MESSAGE": "Um dein Konto abzusichern, lade dir die <b>Widerrufsdaten für das Konto</b> herunter. Diese benötigst du, um dein Konto aufzulösen, wenn dein Konto gestohlen, eine Veränderung der Identität oder unberechtigt eröffnet wurde.<br/><br/><b>Verwahre die Widerrufsdatei an einem sicheren Platz auf. Es iste eine einfache Textdatei: drucke sie aus und bewahre den Ausdruck so auf, dass du ihn wiederfindest.</b>"
+    "POPUP_REVOKE_MESSAGE": "Um dein Konto abzusichern, lade dir die <b>Widerrufsdaten für das Konto</b> herunter. Diese benötigst du, um dein Konto aufzulösen, wenn dein Konto gestohlen, eine Veränderung der Identität oder unberechtigt eröffnet wurde.<br/><br/><b>Verwahre die Widerrufsdatei an einem sicheren Platz auf. Es ist eine einfache Textdatei: drucke sie aus und bewahre den Ausdruck so auf, dass du ihn wiederfindest.</b>"
   },
   "HELP": {
     "TITLE": "Online Hilfe",
     "JOIN": {
       "SECTION": "Mitglied werden",
-      "SALT": "Deine Benutzerkennung ist sehr wichtigt. Sie wird gebraucht, um dein Passwort zu verschlüsseln, welches wiederum gebraucht wird, um <span class=\"text-italic\">den öffentlichen Schlüssel</span> deines Kontos (quasi die Kontonummer) und den privaten Schlüssel für den Zugang zum Konto zu berechnen. <b>Merke dir die Benutzerkennung sehr gut, oder schreibe sie auf und bewahre sie an einem sicheren Ort auf</b>, es gibt keinen Weg, um deine Zugangsdaten wiederherzustellen, wenn du sie vergisst oder deine Notize dazu nicht wiederfindest. Weiter gibt es keine Möglichkeit die Zugangsdaten zu veränern, ohne ein neues Konto anzulegen.<br/><br/>Eine gute Benutzerkennung muss hinreichen lang (mindestens 8 Zeichen) sein und so originell/individuell wie möglich - also nicht dein vor- und/oder Nachname.",
-      "PASSWORD": "Das Passwort ist ebenfalls sehr wichtig. Zusammen mit der Benutzerkennung wird es gebraucht, um deine Kontonummer (der öffentliche Schlüssel) und den privaten Schlüssel zu berechnen, der gebraucht wir, um auf dein Konto zuzugreifen. <b>Merke es dir sehr gut (am besten auch aufschreiben und an einem sicheren Ort verwahren)</b>. Es gibt keine Möglichkeit das Passwort wiederherzustellen, wenn du es verloren hast. Darüber hinaus kannst du deinen Kontozugang nur ändern, wenn du ein neues Konto anlegst.<br/><br/>Ein gutes Passwort besteht aus mindestens 8 Zeichen, mit Klein- und Großbuchstaben und Zahlen.",
-      "PSEUDO": "Ein Pseudonym wird nur gebraucht, wenn du dich als <span class=\"text-italic\">Mitglied</span> registrieren möchtest. Es ist immer mit einem Konto verknüpft (durch den <span class=\"text-italic\">öffentlichen Schlüssel</span>). Das Pseudonym ist öffentlich und ermöglicht, das andere Nutzer das Konto finden, deine Identität zertifizieren oder dir Geld überweisen können. Ein Pseudonym kann nur einmal vergebben werden (aktuelle und auch in der Vergangenheit)."
+      "SALT": "Deine Benutzerkennung ist sehr wichtig. Sie wird gebraucht, um dein Passwort zu verschlüsseln, welches wiederum gebraucht wird, um <span class=\"text-italic\">den öffentlichen Schlüssel</span> deines Kontos (quasi die Kontonummer) und den privaten Schlüssel für den Zugang zum Konto zu berechnen. <b>Merke dir die Benutzerkennung sehr gut, oder schreibe sie auf und bewahre sie an einem sicheren Ort auf</b>, es gibt keinen Weg, um deine Zugangsdaten wiederherzustellen, wenn du sie vergisst oder deine Notiz dazu nicht wiederfindest. Weiter gibt es keine Möglichkeit die Zugangsdaten zu verändern, ohne ein neues Konto anzulegen.<br/><br/>Eine gute Benutzerkennung muss hinreichend lang (mindestens 8 Zeichen) sein und so originell/individuell wie möglich - also nicht dein vor- und/oder Nachname.",
+      "PASSWORD": "Das Passwort ist ebenfalls sehr wichtig. Zusammen mit der Benutzerkennung wird es gebraucht, um deine Kontonummer (der öffentliche Schlüssel) und den privaten Schlüssel zu berechnen, der gebraucht wird, um auf dein Konto zuzugreifen. <b>Merke es dir sehr gut (am besten auch aufschreiben und an einem sicheren Ort verwahren)</b>. Es gibt keine Möglichkeit das Passwort wiederherzustellen, wenn du es verloren hast. Darüber hinaus kannst du deinen Kontozugang nur ändern, wenn du ein neues Konto anlegst.<br/><br/>Ein gutes Passwort besteht aus mindestens 8 Zeichen, mit Klein- und Großbuchstaben und Zahlen.",
+      "PSEUDO": "Ein Pseudonym wird nur gebraucht, wenn du dich als <span class=\"text-italic\">Mitglied</span> registrieren möchtest. Es ist immer mit einem Konto verknüpft (durch den <span class=\"text-italic\">öffentlichen Schlüssel</span>). Das Pseudonym ist öffentlich und ermöglicht, dass andere Nutzer das Konto finden, deine Identität zertifizieren oder dir Geld überweisen können. Ein Pseudonym kann nur einmal vergeben werden (aktuell und auch in der Vergangenheit)."
     },
     "LOGIN": {
       "SECTION": "Anmeldung",
@@ -931,12 +931,12 @@
       "SECTION": "Glossar",
       "PUBKEY_DEF": "Ein öffentlicher Schlüssel ist immer mit einem Konto verbunden. Es kann auch zu einem Mitglied gehören. In Cesium wird der öffentliche Schlüssel aus der geheimen Benutzerkennung und dem Passwort berechnet.",
       "MEMBER": "Mitglied",
-      "MEMBER_DEF": "Ein Mitglied ist ein realter und lebender Mensch, der freiwillig an dieser Währungs Gemeinschaft teilnehmen möchte. Ein Mitglied erhält täglich eine universelle Dividende, mit dem zeitlichen Rhytmus und in der Höhe, wie es die <span class=\"text-italic\">Parameter der Währung</span> vorgeben.",
+      "MEMBER_DEF": "Ein Mitglied ist ein realer und lebender Mensch, der freiwillig an dieser Währungsgemeinschaft teilnehmen möchte. Ein Mitglied erhält täglich eine universelle Dividende, mit dem zeitlichen Rhythmus und in der Höhe, wie es die <span class=\"text-italic\">Parameter der Währung</span> vorgeben.",
       "CURRENCY_RULES": "Regeln für die Währung",
-      "CURRENCY_RULES_DEF": "Die Währungsregeln wurden einmalig für immer festgelegt. Sie legen die Parameter fest, mit denen die Währung sich entwickeln wird: die Berechnungsder universellen Dividende, die Anzahl der füpr ein neues Mitglies nötigen Zertifizierungen, die höchste  Anzalh gültiger Zerifizierungen, die ein Mitglied vergeban kann und so weiter.<br/><br/>Diese Parameter können niemals verändert werden, weil eine  <span class=\"text-italic\">Blockchain</span> verwendet wird, die diese Regeln beinhaltet und ausführt. Sie überprüft laufend die Einhaltung der korrekten Anwendung dieser Regeln. <a href=\"#/app/currency\">Siehe hierzu die aktuellen Parameterwerte</a>.",
+      "CURRENCY_RULES_DEF": "Die Währungsregeln wurden einmalig für immer festgelegt. Sie legen die Parameter fest, mit denen die Währung sich entwickeln wird: die Berechnung der universellen Dividende, die Anzahl der für ein neues Mitglied nötigen Zertifizierungen, die höchste  Anzahl gültiger Zertifizierungen, die ein Mitglied vergeben kann und so weiter.<br/><br/>Diese Parameter können niemals verändert werden, weil eine <span class=\"text-italic\">Blockchain</span> verwendet wird, die diese Regeln beinhaltet und ausführt. Sie überprüft laufend die Einhaltung der korrekten Anwendung dieser Regeln. <a href=\"#/app/currency\">Siehe hierzu die aktuellen Parameterwerte</a>.",
       "BLOCKCHAIN": "Blockchain",
-      "BLOCKCHAIN_DEF": "Eine Blockchain ist ein dezentrales System, welches im Fall von Duniter dazu dient, die <span class=\"text-italic\">Währungsregeln</span> zu beinhalten und auszuführen.<br/><a href=\"http://en.duniter.org/presentation/\" target=\"_blank\">Hier gibt es mehr Information zu Duniter</a> und wie seine Blockchaine funktioniert.",
-      "UNIVERSAL_DIVIDEND_DEF": "Die Universelle Dividende (UD) ist die Menge an Geld, die von jedem Mitgleid mit erschaffen wird, wie es die festgelegte Zeitspanne und die Berechnungen in den <span class=\"text-italic\">Währungsregeln</span> vorgeben.<br/>Nach jeder solchen Zeitspanne erhalten die Mitglieder eine gleiche Menge an neu geschaffenem Geld auf ihr Konto gutgeschrieben.<br/><br/>Die UD unterliegt einem ständigen Wachstum, um Fairness zwischen den Mitgliedern zu gewährleisten (jetzt und in der Zukunft), berechnet mit einer durchschnittlichen Lebenserwartung, wie sie in der Relativen Theorie des Geldes (RTM - relative theory of money) gezeigt wurde.<br/><a href=\"http://trm.creationmonetaire.info\" target=\"_system\">Hier findest du merh Informationen zur RTM</a> und dem freien Geld.",
+      "BLOCKCHAIN_DEF": "Eine Blockchain ist ein dezentrales System, welches im Fall von Duniter dazu dient, die <span class=\"text-italic\">Währungsregeln</span> zu beinhalten und auszuführen.<br/><a href=\"http://en.duniter.org/presentation/\" target=\"_blank\">Hier gibt es mehr Information zu Duniter</a> und wie seine Blockchain funktioniert.",
+      "UNIVERSAL_DIVIDEND_DEF": "Die Universelle Dividende (UD) ist die Menge an Geld, die von jedem Mitglied mit erschaffen wird, wie es die festgelegte Zeitspanne und die Berechnungen in den <span class=\"text-italic\">Währungsregeln</span> vorgeben.<br/>Nach jeder solchen Zeitspanne erhalten die Mitglieder eine gleiche Menge an neu geschaffenem Geld auf ihr Konto gutgeschrieben.<br/><br/>Die UD unterliegt einem ständigen Wachstum, um Fairness zwischen den Mitgliedern zu gewährleisten (jetzt und in der Zukunft), berechnet mit einer durchschnittlichen Lebenserwartung, wie sie in der Relativen Theorie des Geldes (RTM - relative theory of money) gezeigt wurde.<br/><a href=\"http://trm.creationmonetaire.info\" target=\"_system\">Hier findest du mehr Informationen zur RTM</a> und dem freien Geld.",
       "WOT": "Web of Trust (WoT) - Netz des Vertrauens",
       "WOT_DEF": "Das Netz des Vertrauens bildet sich aus allen Mitgliedern der Währung und den Zertifizierungen, die sie verbinden.",
       "DISTANCE_RULE": "Distanzregel",
@@ -947,20 +947,20 @@
       "CURRENCY_WOT": "Die <b>Anzahl Mitglieder</b> zeigt die <b>Größe und Entwicklung der Community</b>.",
       "CURRENCY_MASS": "Hier wird die <b>gesamte Geldmenge</b> derzeit im Umlauf und die <b>durchschnittliche Verteilung</b> pro Mitglied angezeigt.<br/><br/>Damit ist die Einschätzung eines <b>Gegenwertes für jede Summe</b> möglich, unter der Berücksichtigung, über wie viel <b>andere</b> auf ihrem Konto vefügen (im Mittel).",
       "CURRENCY_UNIT_RELATIVE": "Die hier benutzte Einheit (&ldquo;<b>{{'COMMON.UD'|translate}}<sub>{{currency|abbreviate}}</sub></b>&rdquo;) bedeutet, dass die Summe in {{currency|capitalize}} durch die  <b>Universelle Dividende</b> (UD) geteilt wurde.<br/><br/><small>Diese relative Einheit ist <b>relevant</b> weils sie stabil ist im Gegensatz zu der ständig wachsenden Geldmenge.</small>",
-      "CURRENCY_CHANGE_UNIT": "Mit diesem Button kannst du <b>die Einheit wechseln</b> in der Summen angezeigt werden in <b>{{currency|capitalize}}</b>, nicht geteil durch die universelle Dividende (anstelle von &ldquo;<b>{{'COMMON.UD'|translate}}<sub>{{currency|abbreviate}}</sub></b>&rdquo;).",
-      "CURRENCY_CHANGE_UNIT_TO_RELATIVE": "Dieser Butten <b>wechselt die Einheit</b> und zeigt Summen in  &ldquo;<b>{{'COMMON.UD'|translate}}<sub>{{currency|abbreviate}}</sub></b>&rdquo;, was zur Universellen Dividende in Beziehung steht (Die Menge Geld, mit erschaffen von jedem Mitglied).",
+      "CURRENCY_CHANGE_UNIT": "Mit diesem Button kannst du <b>die Einheit wechseln</b> in der Summen angezeigt werden in <b>{{currency|capitalize}}</b>, nicht geteilt durch die universelle Dividende (anstelle von &ldquo;<b>{{'COMMON.UD'|translate}}<sub>{{currency|abbreviate}}</sub></b>&rdquo;).",
+      "CURRENCY_CHANGE_UNIT_TO_RELATIVE": "Dieser Button <b>wechselt die Einheit</b> und zeigt Summen in  &ldquo;<b>{{'COMMON.UD'|translate}}<sub>{{currency|abbreviate}}</sub></b>&rdquo;, was zur Universellen Dividende in Beziehung steht (Die Menge Geld, mit erschaffen von jedem Mitglied).",
       "CURRENCY_RULES": "Die <b>Regeln</b> für diese Währung bedingen ihre <b>exakte und vorhersagbare</b> Entwicklung.<br/><br/>Wie eine echte DNA der Währung machen diese Regeln die Währung <b>transparent und verständlich</b>.",
-      "MENU_BTN_NETWORK": "Der Menüpunkt <b>{{'MENU.NETWORK'|translate}}</b> führt zu einer Darstellung des <b>Netzwerkzustands<b>.",
-      "NETWORK_BLOCKCHAIN": "Alle Geldbewegungen werden verschlüsselt in einer <b>öffentlichen und fälschungssicheren </b> Buchführung, die im Allgemeinen als <b>Blockchain</b> bezeichnet wird.",
+      "MENU_BTN_NETWORK": "Der Menüpunkt <b>{{'MENU.NETWORK'|translate}}</b> führt zu einer Darstellung des <b>Netzwerkzustands</b>.",
+      "NETWORK_BLOCKCHAIN": "Alle Geldbewegungen werden verschlüsselt in einer <b>öffentlichen und fälschungssicheren</b> Buchführung, die im Allgemeinen als <b>Blockchain</b> bezeichnet wird.",
       "NETWORK_PEERS": "Die hier angezeigten <b>Knoten</b> stehen für <b>Computer, die regelmäßig die Blockchain prüfen und aktualisieren</b>.<br/><br/>Je mehr aktive Knoten es gibt, desto <b>dezentraler</b> und deshalb vertrauenswürdiger wird die Währung.",
-      "NETWORK_PEERS_BLOCK_NUMBER": "Diesr <b>Wert</b> zeigt den <b>letzten bestätigten Block</b> (letzte Seite in der Buchhaltung) den dieser Netzknoten berechnet hat.<br/><br/>Eine grüne Farbe zeigt an, dass dieser Block von einer <b>Mehrheit der anderen Knoten</b> bestätigt wurde.",
+      "NETWORK_PEERS_BLOCK_NUMBER": "Dieser <b>Wert</b> zeigt den <b>letzten bestätigten Block</b> (letzte Seite in der Buchhaltung) den dieser Netzknoten berechnet hat.<br/><br/>Eine grüne Farbe zeigt an, dass dieser Block von einer <b>Mehrheit der anderen Knoten</b> bestätigt wurde.",
       "NETWORK_PEERS_PARTICIPATE": "<b>Jedes Mitglied</b> mit einem Computer, der Internetverbindung hat, <b>kann daran teilnehmen, indem es einen Knoten hinzufügt</b>, indem es einfach die <b>Duniter Software installiert</b> (freie Software, und open source). <a href=\"{{installDocUrl}}\" target=\"_system\">Hier kannst du die Installationsanleitung lesen &gt;&gt;</a>.",
       "MENU_BTN_ACCOUNT": "<b>{{'ACCOUNT.TITLE'|translate}}</b> gibt dir Zugang zu deinem Kontostand und den letzten Kontobewegungen.",
       "MENU_BTN_ACCOUNT_MEMBER": "Hier kannst du deinen Konto-Status, die letzten Geldbewegungen  und Zertifizierungen einsehen.",
       "WALLET_CERTIFICATIONS": "Hier klicken und du siehst die Details deiner Zertifizierungen (gegeben und erhalten).",
       "WALLET_RECEIVED_CERTIFICATIONS": "Hier klicken, um Details deiner <b>empfangenen Zertifizierungen</b> zu sehen.",
       "WALLET_GIVEN_CERTIFICATIONS": "Hier klicken, um Details deiner <b>vergebenen Zertifizierungen</b> zu sehen.",
-      "WALLET_BALANCE": "Dein <b>Kontostand </b> steht hier.",
+      "WALLET_BALANCE": "Dein <b>Kontostand</b> steht hier.",
       "WALLET_BALANCE_RELATIVE": "{{'HELP.TIP.WALLET_BALANCE'|translate}}<br/><br/>Die verwendete Einheit (&ldquo;<b>{{'COMMON.UD'|translate}}<sub>{{currency|abbreviate}}</sub></b>&rdquo;) bedeutet, dass die Summe in {{currency|capitalize}} durch die  <b>Universelle Dividende</b> geteilt wurde (UD) mitgeschaffen durch jedes Mitglied.<br/>Aktuell entspricht 1 UD {{currentUD}} {{currency|capitalize}}.",
       "WALLET_BALANCE_CHANGE_UNIT": "Du kannst die <b>Währungseinheit ändern</b> mit denen die Beträge angezeigt werden <b><i class=\"icon ion-android-settings\"></i>&nbsp;{{'MENU.SETTINGS'|translate}}</b>.<br/><br/>Zum Beispiel um Beträge <b>absolut anzuzeigen in  {{currency|capitalize}}</b> als in relativen Werten.",
       "WALLET_PUBKEY": "Dies ist der öffentliche Schlüssel deines Kontos. Er kann problemlos Dritten mitgeteilt werden, damit die dein Konto einfacher finden können.",
@@ -983,7 +983,7 @@
       "CERTIFY_RULES": "<b>Achtung:</b> Zertifiziere nur <b>echte und lebende Personen</b> die kein weiteres zertifiziertes Mitgliedskonto besitzen.<br/><br/>Das Vertrauen in diese Währung wird von der Zuverlässigkeit aller Mitglieder getragen.!",
       "MENU_BTN_SETTINGS": "Mit den  <b>{{'MENU.SETTINGS'|translate}}</b> kannst du die Cesium Anwendung einrichten.<br/><br/>Zum Beispiel kannst du einstellen, in welcher <b>Einheit</b>die Währung angezeigt wird.",
       "HEADER_BAR_BTN_PROFILE": "Hier klicken, um zu deinem <b>Profil</b> zu kommen",
-      "SETTINGS_CHANGE_UNIT": "Du kannst die angezeigte Einheit der Menge ändern: <b>hier klicken</b>.<br/><br/>- Option zur Deaktivierung der Anzeige von Werten in {{currency|capitalize}}.<br/>- Activiere diese Option für relative Beträge in {{'COMMON.UD'|translate}}<sub>{{currency|abbreviate}}</sub> (<b>Einheiten der aktuellen universellen Dividende</b>).",
+      "SETTINGS_CHANGE_UNIT": "Du kannst die angezeigte Einheit der Menge ändern: <b>hier klicken</b>.<br/><br/>- Option zur Deaktivierung der Anzeige von Werten in {{currency|capitalize}}.<br/>- Aktiviere diese Option für relative Beträge in {{'COMMON.UD'|translate}}<sub>{{currency|abbreviate}}</sub> (<b>Einheiten der aktuellen universellen Dividende</b>).",
       "END_LOGIN": "Diese geführte Tour ist nun zu <b>Ende</b>.<br/><br/>Herzlich willkommen im Netz bei der <b>freien Ökonomie</b>!",
       "END_NOT_LOGIN": "Diese geführte Tour ist <b>beendet</b>.<br/><br/>Wenn du dich am Währungsnetzwerk {{currency|capitalize}} beteiligen möchtest, klicke einfach<b>{{'LOGIN.CREATE_ACCOUNT'|translate}}</b> unten.",
       "END_READONLY": "Diese geführte Tour ist <b>beendet</b>.<br/><br/>{{'MODE.READONLY.INSTALL_HELP'|translate}}."
